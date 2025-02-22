@@ -3,6 +3,9 @@
 ## Overview
 The owner of Akash Store has commissioned us to create an interactive dashboard to track and analyze their online sales across India. This document outlines the key learnings and components involved in the project.
 
+![Shows home sectionof my portfolio](powerbi.png)
+
+
 ## Project Learnings
 - **Dashboard Development:** Created an interactive dashboard to analyze sales data.
 - **Advanced Parameters:** Used complex parameters, filters, and slicers for in-depth analysis.
